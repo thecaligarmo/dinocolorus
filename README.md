@@ -2,6 +2,8 @@
 
 A video game made using [LÖVE](https://www.love2d.org/).
 
+This repository is a backup of: <https://github.com/me50/thecaligarmo> in case those files get deleted.
+
 ## Username
 
 Thecaligarmo
